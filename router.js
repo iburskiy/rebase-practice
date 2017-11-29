@@ -1,5 +1,3 @@
-// local-cleanup commit1
-
 function route(handle, pathname, response, request) {
   console.log("About to route a request for " + pathname);
   if (typeof handle[pathname] === 'function') {
@@ -13,13 +11,3 @@ function route(handle, pathname, response, request) {
 }
 
 exports.route = route;
-
-// local-cleanup commit2
-
-// local-cleanup commit3
-
-// local-cleanup commit4
-
-// feature-branch commit1
-
-// feature-branch commit2

@@ -15,9 +15,3 @@ function start(route, handle) {
 }
 
 exports.start = start;
-
-// master commit2
-
-// master commit3
-
-// master commit4

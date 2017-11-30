@@ -15,7 +15,3 @@ exports.route = route;
 // feature-branch: commit1
 
 // feature-branch: commit2
-
-// feature-branch: commit1
-
-// feature-branch: commit2
